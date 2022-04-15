@@ -10,7 +10,7 @@ using namespace std;
 // vehicle‘s physical coff，maybe need
 struct mkz_veh {
   /// mkz param
-  double front_edge_to_center = 3.890;
+  double front_edge_to_center = 3.0;
   double back_edge_to_center = 1.043;
   double left_edge_to_center = 1.055;
   double right_edge_to_center = 1.055;
